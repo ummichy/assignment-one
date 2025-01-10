@@ -1,0 +1,77 @@
+.fira-sans{
+  font-family: "Fira Sans", serif;
+  font-weight: 100;
+  font-style: normal;
+}
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+nav .size{
+  font-weight: 700;
+  font-size: 25px;
+  margin: 24px 753px 24px 128px;
+  color: #0E0E0E;
+}
+nav .decor{
+  font-weight: 600;
+  font-size: 14px;
+  color: #006A50;
+  background-color: white;
+  border-color: #006A50;
+  padding: 12px 24px;
+  margin: 19px 128px 19px;
+  border-radius: 8px;
+
+}
+.decor:hover{
+  background-color: #817b7b;
+}
+.banner{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #C6E4D6;
+  border-radius: 24px;
+  padding: 64px 80px;
+  margin: 0 auto;
+  max-width: 1140px;
+
+
+}
+.content{
+  margin:93px 51px 93px 47px ;
+
+}
+.title{
+  font-weight: 500;
+  font-size: 19px;
+  color: #817b7b;
+  margin-bottom: 12px;
+}
+.topic{
+  color: #0E0E0E;
+  font-weight: 700;
+  font-size: 44px;
+  width: 497px;
+  height: 160px;
+  margin-top: 12px;
+  margin-bottom: 19px;
+}
+.btn{
+  color: #FFFFFF;
+  background-color: #006A50;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 13px 27px;
+  border-radius: 8px;
+  border: none;
+}
+.btn:hover{
+  background-color: #817b7b;
+}
+.picture{
+  width: 379px;
+  height: 320px;
+}
